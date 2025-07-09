@@ -1,5 +1,5 @@
 
-name-template: 'Liquibase Opensearch Extension v$RESOLVED_VERSION'
+name-template: 'Liquibase CDI Jakarta Extension v$RESOLVED_VERSION'
 tag-template: 'v$RESOLVED_VERSION'
 exclude-labels:
   - 'skipReleaseNotes'
