@@ -8,7 +8,7 @@
     </parent>
 
     <artifactId>liquibase-cdi-jakarta</artifactId>
-    <version>5.0.1-SNAPSHOT</version>
+    <version>5.0.1</version>
     <packaging>jar</packaging>
 
     <name>Liquibase Jakarta CDI Plugin</name>
@@ -19,7 +19,7 @@
         <connection>scm:git:git://github.com/liquibase/liquibase-cdi.git</connection>
         <developerConnection>scm:git:ssh://github.com:liquibase/liquibase-cdi.git</developerConnection>
         <url>https://github.com/liquibase/liquibase-cdi</url>
-      <tag>HEAD</tag>
+      <tag>temp</tag>
   </scm>
 
     <properties>
