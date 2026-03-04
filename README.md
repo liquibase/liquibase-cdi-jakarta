@@ -14,7 +14,7 @@ Liquibase is a powerful database schema change management tool. This extension p
 
 ## License
 
-This project is licensed under the [Apache License 2.0](LICENSE).
+This project is licensed under the [Functional Source License, Version 1.1, ALv2 Future License (FSL-1.1-ALv2)](LICENSE).
 
 
 ## Repository Migration
