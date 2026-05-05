@@ -8,7 +8,7 @@ on:
 
 jobs:
   nightly-build:
-    uses: liquibase/build-logic/.github/workflows/os-extension-test.yml@main
+    uses: liquibase/build-logic/.github/workflows/os-extension-test.yml@techops-369
     with:
       nightly: true
       java: '[17, 21]'
