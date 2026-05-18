@@ -23,7 +23,7 @@
   </scm>
 
     <properties>
-        <liquibase.version>5.0.2</liquibase.version>
+        <liquibase.version>5.0.3</liquibase.version>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
         <maven.install.skip>false</maven.install.skip>
