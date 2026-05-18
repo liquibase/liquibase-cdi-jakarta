@@ -8,7 +8,7 @@
     </parent>
 
     <artifactId>liquibase-cdi-jakarta</artifactId>
-    <version>5.0.2-SNAPSHOT</version>
+    <version>5.0.3-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>Liquibase Jakarta CDI Plugin</name>
